@@ -1,4 +1,4 @@
-#Simple Arithmetic operations
+# Simple Arithmetic operations
 #! /bin/sh
 echo 'Enter a'
 read a
