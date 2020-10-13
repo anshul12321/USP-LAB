@@ -1,4 +1,4 @@
-#ARITHMETIC OPERATIONS on given two  numbers using Case statement syntax.
+# ARITHMETIC OPERATIONS on given two  numbers using Case statement syntax.
 echo "Enter arithmetic operation: "
 read a op b
 
