@@ -1,4 +1,4 @@
-#Largest of 3 numbers
+# Largest of 3 numbers
 echo "Enter 3 numbers: "
 read a b c
 l=$a
