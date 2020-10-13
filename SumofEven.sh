@@ -12,4 +12,4 @@ do
     tmp=`expr $tmp - 1`
 done
 
-echo "Sum of first $n even numbers: $sum"
+echo "Sum of first $n even numbers:  $sum"
