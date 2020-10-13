@@ -1,5 +1,5 @@
-sh
-#shell script to check whether a number is positive or negative
+
+# shell script to check whether a number is positive or negative
 
 echo "Enter a Number"
 read num
