@@ -1,5 +1,5 @@
 #Convert Fahrenheit to Celsius
-echo "Convert Fahrenheit temperatures into Celsius"
+echo "Convert Fahrenheit temperature into Celsius"
 
 	echo "Enter temperature (F) : "
 	read tf
