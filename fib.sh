@@ -1,6 +1,5 @@
 #Fibonacci series upto N 
-echo "Program to Find Fibonacci Series"
-  echo "How many number of terms to be generated ?"
+  echo "Enter n"
   read n
   x=0
   y=1
